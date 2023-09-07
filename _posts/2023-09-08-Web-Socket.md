@@ -1,3 +1,9 @@
+---
+layout: post
+title: "소켓 통신, Socket.io"
+author: "Hajun"
+---
+
 # **소켓 통신, Socket.IO**
 
 SPARCS 기술 블로그에 직접 작성한 내용을 가져왔습니다.
